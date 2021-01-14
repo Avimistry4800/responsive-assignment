@@ -1,0 +1,74 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-brand img{
+    width: 400px;
+}
+.second-header-section h1{
+    font-size: 5em;
+}
+h1,h2,h3,h4{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+h1{
+    font-size: 900;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E;
+}
+.bg-color{
+    background-color:#FFFBF0;
+}
+.nav-bg{
+    background-color:#fffbf0;
+
+}
+.card{
+    border: 0;
+    
+}
+.card-top{
+    border: 0;
+    background-color: #fffbf0;
+}
+.casual-shoes{
+    border: none;
+    background-color:#FFFFFF;
+    padding: 1em;
+    border-radius: 20px;
+}
+.casual-shoes img{
+    height:60%;
+    border-radius: 25px;
+  
+}
+.formal-shoes{
+    border: none;
+    padding: 1em;
+    border-radius: 20px;
+}
+.formal-shoes img{
+    height:60%;
+    border-radius: 25px;
+}
+span{
+    color: #FA804C;
+}
+.Button{
+    border: 0;
+    background-color: #3D4FF3;
+    border-radius: 5px;
+    padding:10px;
+    color: white;
+    font: 700;
+}
+.Button img{
+    height: 20px;
+    width: 30px;
+}
+.left-row img{
+    height: 60px;
+}
